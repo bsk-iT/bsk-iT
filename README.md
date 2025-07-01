@@ -2,8 +2,14 @@
 
 Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologia de Bragança Paulista). Meu foco está em infraestrutura de TI e desenvolvimento backend, especialmente utilizando C# e tecnologias relacionadas a APIs e banco de dados.
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsk-iT&show_icons=true&bg_color=23272A&title_color=FFFFFF&text_color=D3D3D3&icon_color=006AFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsk-iT&layout=compact&bg_color=23272A&title_color=FFFFFF&text_color=D3D3D3&icon_color=006AFF)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://img.shields.io/badge/Estat%C3%ADsticas-23272A?style=for-the-badge&logo=github&logoColor=white" alt="Estatísticas" />
+</p>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=bsk-iT&show_icons=true&bg_color=23272A&title_color=FFFFFF&text_color=D3D3D3&icon_color=006AFF&hide_border=true&card_width=350" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsk-iT&layout=compact&card_width=350&bg_color=23272A&title_color=FFFFFF&text_color=D3D3D3&icon_color=006AFF&hide_border=true" width="350"/>
+</p>
 
 ---
 
