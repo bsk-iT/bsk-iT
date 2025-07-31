@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno! 👋
 
-Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologia de Bragança Paulista). Meu foco está em infraestrutura de TI e desenvolvimento backend, especialmente utilizando C# e tecnologias relacionadas a APIs e banco de dados.
+Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologia de Bragança Paulista). Tenho foco em desenvolvimento de software, tanto backend quanto frontend, com experiência em infraestrutura de TI. Trabalho principalmente com C#, APIs RESTful e banco de dados, buscando aprofundar meus conhecimentos nas principais tecnologias do mercado.
 
 <p>
   <img src="https://img.shields.io/badge/Estat%C3%ADsticas-23272A?style=for-the-badge&logo=github&logoColor=white" alt="Estatísticas" />
@@ -15,9 +15,9 @@ Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologi
 
 ## 👨‍💻 Sobre Mim
 
-- **Área de atuação:** Infraestrutura de TI & Desenvolvimento Backend
-- **Especialidade:** Desenvolvimento de APIs REST com C# (.NET), Entity Framework, SQL, tratamento de erros e exceções, e conceitos de POO.
-- **Conhecimentos adicionais:** Manutenção de computadores e notebooks, sistemas operacionais Linux e Windows, virtualização de servidores com Proxmox VE.
+- **Área de atuação:** Desenvolvimento de Software (Backend e Infraestrutura de TI).
+- **Especialidade:** Criação de APIs RESTful com C# (.NET), utilização do Entity Framework, gerenciamento de banco de dados SQL, implementação de tratamento de erros e exceções, além de aplicação dos principais conceitos de Programação Orientada a Objetos (POO).
+- **Conhecimentos adicionais:** Manutenção de computadores e notebooks, administração de sistemas operacionais Linux e Windows, e virtualização de servidores utilizando Proxmox VE.
 
 ---
 
