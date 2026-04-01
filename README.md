@@ -7,8 +7,11 @@ Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologi
 </p>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=bsk-iT&show_icons=true&theme=dark&hide_border=true&card_width=350&hide=issues" width="350"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsk-iT&layout=compact&card_width=350&theme=dark&hide_border=true" width="350"/>
+    <img src="https://streak-stats.demolab.com?user=bsk-iT&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsk-iT&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
@@ -99,7 +102,7 @@ Sou estudante de **Tecnologia da Informação** na FATEC (Faculdade de Tecnologi
 ## 📫 Como conectar comigo
 
 <p align="left">
-  <a href="https://portfolio-bsk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-bsk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-696969?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" /></a>
   <a href="https://berserkit.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/brunocuberoti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/brunOcuberO" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
