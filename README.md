@@ -2,18 +2,6 @@
 
 **Analista de Sistemas** na Tez & Tez, atuando em sistemas corporativos do setor elétrico: análise e tratamento de dados, validação de informações e apoio às regras de negócio. Graduado em **Tecnologia da Informação** pela FATEC Bragança Paulista, com formação anterior em Gestão Empresarial. Trabalho com PL/SQL, desenvolvimento back-end e front-end, e mantenho projetos pessoais em C#/.NET e React.
 
-## 📊 Estatísticas
-
-<p align="left">
-    <img src="https://streak-stats.demolab.com?user=bsk-iT&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsk-iT&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
 ## 👨‍💻 Sobre Mim
 
 - **Atuação atual:** Análise e desenvolvimento de sistemas corporativos para o setor elétrico — consultas e tratamento de dados, análise de inconsistências, integração de informações e sistemas de gestão de regras de negócio (BRMS).
